@@ -1,6 +1,6 @@
 |Problem|Completed|
 | --- | --- |
-|[001_Two_Sum](LeetCode/001_Two_Sum)| |
+|[001_Two_Sum](LeetCode/001_Two_Sum)| ✅ |
 |[002_Add_Two_Numbers](LeetCode/002_Add_Two_Numbers)| |
 |[003_Longest_Substring_Without_Repeating_Characters](LeetCode/003_Longest_Substring_Without_Repeating_Characters)| |
 |[004_Median_of_Two_Sorted_Arrays](LeetCode/004_Median_of_Two_Sorted_Arrays)| |
